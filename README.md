@@ -15,8 +15,8 @@
  ![React](http://img.shields.io/badge/-React-007dff?style=flat-square&logo=react&logoColor="black"/)
  <br>
   <h3>Focus on🔎</h3>
-  ![React](http://img.shields.io/badge/-React-007dff?style=flat-square&logo=react&logoColor="black"/)
 
+ ![React](http://img.shields.io/badge/-React-007dff?style=flat-square&logo=react&logoColor="black"/)
  
   <h3> 🙋‍♂️ ♂️Get In Tough 🙋‍ ♀️</h3>
   <a href="https://mail.naver.com/write">
