@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=beige&height=300&section=header&text=ChaEunmi&fontSize=90&animation=fadeIn&fontColor=aa8d88)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=_hexcode(beige)&height=300&section=header&text=ChaEunmi&fontSize=90&animation=fadeIn&fontColor=aa8d88)
 
 
 
