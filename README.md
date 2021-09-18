@@ -1,7 +1,9 @@
-<div align=center>![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=ChaEunmi&fontSize=90&animation=fadeIn&fontColor=dc8df0)
 
-<h2>Hi there 😊</h2>
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=ChaEunmi&fontSize=90&animation=fadeIn&fontColor=dc8df0)
 
+
+<div align=center>
+ <h2>Hi there 😊</h2>
  <h3>⚒ Tech Stack 🛠</h3>
  
  Techs that I've used at least once
