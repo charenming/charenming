@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=ChaEunmi&fontSize=90&animation=fadeIn&fontColor=aa8d88)
 
 
-
+<div align="center">
  <h2>Hi there 😊</h2>
  <h3>⚒ Tech Stack 🛠</h3>
  
@@ -15,3 +15,4 @@
  ![Bootstrap](http://img.shields.io/badge/-Bootstrap-14dce3?style=flat-square&logo=bootstrap&logoColor="black"/)
  ![React](http://img.shields.io/badge/-React-007dff?style=flat-square&logo=react&logoColor="black"/)
 
+</div>
