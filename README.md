@@ -5,7 +5,7 @@
  
  Techs that I've used at least once
  
- [![html5](http://img.shields.io/badge/-HTML5-beige?style=flat-square&logo=github&link=https://charenming.github.io/)]
+ [![html5](http://img.shields.io/badge/-HTML5-beige?style=flat-square&logo=html5&logoColor="black"/)]
 	
  [![GITHUB](http://img.shields.io/badge/-CSS-beige?style=flat-square&logo=github&link=https://charenming.github.io/)](https://charenming.github.io/)
  
