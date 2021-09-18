@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=ffffff&height=200&section=header&text=ChaEunmi&fontSize=90&animation=fadeIn&fontColor=aa8d88)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=58f983&height=200&section=header&text=ChaEunmi&fontSize=90&animation=fadeIn&fontColor=aa8d88)
 
 <div align="center">
  <h2>Hi there 😊</h2>
