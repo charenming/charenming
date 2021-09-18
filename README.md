@@ -5,8 +5,8 @@
  
  Techs that I've used at least once
  
- ![html5](http://img.shields.io/badge/-HTML5-#eda3a1?style=flat-square&logo=html5&logoColor="black"/)
- ![CSS3](http://img.shields.io/badge/-CSS3-#f7be62?style=flat-square&logo=css3&logoColor="black"/)
+ ![html5](http://img.shields.io/badge/-HTML5-eda3a1?style=flat-square&logo=html5&logoColor="black"/)
+ ![CSS3](http://img.shields.io/badge/-CSS3-f7be62?style=flat-square&logo=css3&logoColor="black"/)
  ![JavaScript](http://img.shields.io/badge/-JavaScript-beige?style=flat-square&logo=javascript&logoColor="black"/)
  ![jQuery](http://img.shields.io/badge/-jQuery-beige?style=flat-square&logo=jquery&logoColor="black"/)
  ![Bootstrap](http://img.shields.io/badge/-Bootstrap-beige?style=flat-square&logo=bootstrap&logoColor="black"/)
