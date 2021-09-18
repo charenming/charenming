@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=ChaEunmi&fontSize=90&animation=fadeIn&fontColor=da62f7)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=ChaEunmi&fontSize=90&animation=fadeIn&fontColor=dc8df0)
 
 
 
