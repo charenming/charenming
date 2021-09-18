@@ -16,9 +16,9 @@
  
   <h3>🙋‍♂️Get in tough �🙋‍♀️</h3>
   <a href="https://mail.naver.com/write">
-    <img src="http://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=black&link=https://mail.naver.com/write">
+    <img src="http://img.shields.io/badge/Email-eda3a1?style=flat-square&logo=naver&logoColor=black&link=https://mail.naver.com/write">
  </a>
     <a href="https://www.instagram.com/em_charming/">
-    <img src="http://img.shields.io/badge/Instagram-03C75A?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/em_charming/">
+    <img src="http://img.shields.io/badge/Instagram-007dff?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/em_charming/">
     </a>
 </div>
