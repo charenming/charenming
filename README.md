@@ -13,8 +13,12 @@
  ![jQuery](http://img.shields.io/badge/-jQuery-58f983?style=flat-square&logo=jquery&logoColor="black"/)
  ![Bootstrap](http://img.shields.io/badge/-Bootstrap-14dce3?style=flat-square&logo=bootstrap&logoColor="black"/)
  ![React](http://img.shields.io/badge/-React-007dff?style=flat-square&logo=react&logoColor="black"/)
+ <br>
+  <h3>Focus on🔎</h3>
+  ![React](http://img.shields.io/badge/-React-007dff?style=flat-square&logo=react&logoColor="black"/)
  <br><br>
-  <h3>🙋‍♂️Get In Tough �🙋‍♀️</h3>
+ 
+  <h3> 🙋‍♂️ ♂️Get In Tough 🙋‍ ♀️</h3>
   <a href="https://mail.naver.com/write">
     <img src="http://img.shields.io/badge/Email-eda3a1?style=flat-square&logo=naver&logoColor=black&link=https://mail.naver.com/write">
  </a>
