@@ -14,7 +14,7 @@
  ![Bootstrap](http://img.shields.io/badge/-Bootstrap-14dce3?style=flat-square&logo=bootstrap&logoColor="black"/)
  ![React](http://img.shields.io/badge/-React-007dff?style=flat-square&logo=react&logoColor="black"/)
  <br>
-  <h3>Focus on 🔎</h3>
+  <h3>🔎 Focus on 🔍</h3>
 
  ![React](http://img.shields.io/badge/-React-007dff?style=flat-square&logo=react&logoColor="black"/)
  
